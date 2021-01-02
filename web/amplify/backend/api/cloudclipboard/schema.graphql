@@ -1,0 +1,4 @@
+type Clipboard @model {
+  id: ID!
+  payload: String!
+}

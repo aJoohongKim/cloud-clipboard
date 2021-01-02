@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cloudclipboard-dev-21433-authRole",
+      "UnauthRoleArn": "arn:aws:iam::692665433886:role/amplify-cloudclipboard-dev-21433-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::692665433886:role/amplify-cloudclipboard-dev-21433-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-cloudclipboard-dev-21433-deployment",
+      "UnauthRoleName": "amplify-cloudclipboard-dev-21433-unauthRole",
+      "StackName": "amplify-cloudclipboard-dev-21433",
+      "StackId": "arn:aws:cloudformation:us-east-1:692665433886:stack/amplify-cloudclipboard-dev-21433/feff32e0-4d1d-11eb-90a0-0e8cca71e1bd",
+      "AmplifyAppId": "d1xh1sw6wpjekc"
+    }
+  }
+}
